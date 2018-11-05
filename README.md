@@ -1,3 +1,5 @@
+# EatSheet [![Build Status](https://travis-ci.org/alexgallardo/eatsheet.svg?branch=test-travis-ci)](https://travis-ci.org/alexgallardo/eatsheet)
+
 ## Available Scripts
 
 In the project directory, you can run:
